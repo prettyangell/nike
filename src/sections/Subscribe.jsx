@@ -1,6 +1,4 @@
-import React from 'react'
-
-function Subscribe() {
+const Subscribe = () => {
   return (
     <div>Subscribe</div>
   )

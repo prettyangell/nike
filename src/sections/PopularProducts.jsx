@@ -1,6 +1,4 @@
-import React from 'react'
-
-function PopularProducts() {
+const PopularProducts = () => {
   return (
     <div>PopularProducts</div>
   )

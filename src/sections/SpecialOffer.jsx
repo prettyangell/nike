@@ -1,6 +1,4 @@
-import React from 'react'
-
-function SpecialOffer() {
+const SpecialOffer = () => {
   return (
     <div>SpecialOffer</div>
   )
